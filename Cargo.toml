@@ -2,6 +2,12 @@
 name = "mr_cat"
 version = "0.1.0"
 edition = "2024"
+description = "A mini command line program that displays cats"
+license = "MIT"
+authors = ["Johnson Ssebide <sebiddejohn136@gmail.com"]
+repository = "https://github.com/ssebide/mr_cat.git"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 structopt = "0.2.15"
