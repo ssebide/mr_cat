@@ -1,0 +1,12 @@
+[package]
+name = "mr_cat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+structopt = "0.2.15"
+colored = "1.7.0"
+failure = "0.1.5"
+exitfailure = "0.5.1"
+predicates = "1.0.0"
+assert_cmd = "2.0.17"
